@@ -1,21 +1,14 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of What makes words special? Words as unmotivated cues (2015, Cognition)"
+author: "Jenna Brooks j8brooks@ucsd.edu"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
-format:
-  html:
-    toc: true
-    toc_depth: 3
+format: pdf
+
 ---
 
 <!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
 
 ## Introduction
-
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
-
-
-
 This study aimed to explore why verbal labels, such as the words "dog" or "guitar," activate conceptual knowledge more effectively than environmental sounds associated with these objects, like the bark of a dog or the strum of a guitar. I chose this topic because it intersects with my interests in language learning and auditory perception. As an English language teacher, I often attempted to bridge the language barrier by using universal auditory cues to represent specific English words, which I found to be effective with foreign language learners. However, the results of this study revealed that verbal labels are more effective than sounds in forming mental representations, contrary to my hypothesis that sounds provide a universal, cross-cultural foundation for conceptual knowledge, independent of language. 
 Future replications of this study could investigate whether the findings hold true across cross-cultural and multilingual groups.
 
